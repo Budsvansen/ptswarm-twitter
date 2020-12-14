@@ -46,3 +46,4 @@
 ?requestTokenAndRedirect=[redirect]
 ?retURL=[redirect]
 ?next_url=[redirect]
+?go=[redirect]
